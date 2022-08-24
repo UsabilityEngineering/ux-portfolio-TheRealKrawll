@@ -1,11 +1,8 @@
 # Nick's UX Portfolio
 
-![Image of Nick](/assets/nick.jpeg)
-[insert picture here]
-[place picture in /assets/image.jpeg]
+![Me and Lily](/assets/me.jpg)
 
-[add introduction]
-[look at markdown cheat sheet]
+My name is Nicholas Shaddox. This is my User Experience Portfolio. I like programming, making and playing video games, drinking...coffee and chai tea lattes, and eating ramen.
 
 ## UX Team Project
 
