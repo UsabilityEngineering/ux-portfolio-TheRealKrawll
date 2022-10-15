@@ -9,4 +9,4 @@ My name is Nicholas Shaddox. This is my User Experience Portfolio. I like progra
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with rotating vertical fans](j01/)
