@@ -1,13 +1,13 @@
 # Rotating Vertical Fan 
 by Nicholas Shaddox
 
-With the summers being so hot in Chico, a fan is necessary to keep the energy costs down from running our HVAC all summer. We opt for the vertical fans because they take up less space than traditional ones but they have a few features that I haven't fully bothered to discover. Although there are two fans from different brands, OmniBreeze (left) and Sierra (right), they are nearly identical in their function and UI. I will not be detailing the differences in this journal. I just wanted to point out that this seems to be a common interface that has been adopted as "standard".
+With the summers being so hot in Chico, a fan is necessary to keep the energy costs down from running our HVAC all summer. We opt for the vertical fans because they take up less space than traditional ones but they have a few features that I haven't fully bothered to discover. Although there are two fans from different brands, OmniBreeze (left) and Sierra (right), they are nearly identical in their function and UI. I will not be detailing the differences in this journal. I just wanted to point out that this seems to be a **common interface that has been adopted as standard**.
 
-![OmniBreeze Fan](/assets/omnibreeze.jpg)
+![OmniBreeze Fan](../assets/omnibreeze.jpg)
 
 <p float="left">
-  <img src="/assets/omnibreeze.jpg" alt="OmniBreeze Fan" width="340"/>
-  <img src="/assets/sierra.jpg" alt="Sierra Fan" width="340"/>
+  <img src="../assets/omnibreeze.jpg" alt="OmniBreeze Fan" width="340"/>
+  <img src="../assets/sierra.jpg" alt="Sierra Fan" width="340"/>
 </p>
   
 I will start with the most obvious buttons first; the power button (circle with a dashed line) and the rotate button (half circle). The power does exactly what you think it does, it turns on the power. The rotate button will make the fan oscillate by about 60%. Nothing shocking here.
