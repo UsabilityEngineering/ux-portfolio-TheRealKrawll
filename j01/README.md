@@ -1,5 +1,5 @@
 # Rotating Vertical Fan 
-by Nicholas Shaddox
+by Nicholas Shaddox October 13th, 2022
 
 With the summers being so hot in Chico, a fan is necessary to keep the energy costs down from running our HVAC all summer. We opt for the vertical fans because they take up less space than traditional ones but they have a few features that I haven't fully bothered to discover. Although there are two fans from different brands, OmniBreeze (left) and Sierra (right), they are nearly identical in their function and UI. I will not be detailing the differences in this journal. I just wanted to point out that this seems to be a **common interface that has been adopted as standard**.
 
