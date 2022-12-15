@@ -4,14 +4,14 @@ by Nicholas Shaddox December 13th, 2022
 
 # The Unboxing
 
-I've had a Keurig for a few years now. My wife got it for me for Christmas in 2018 and I have used it nearly every single day. Lately, I haven't been using it as much because I've been drinking Chia Tea Lattes recently. Specifically using Chia tea from Chico Chai (The best I have ever had). A friend of mine mentioned that he got his girlfriend a Keurig that could make lattes and I went on the hunt. After doing some research, it looks like the one he mentions was the best one for the price. My wife bought it for me the very next day.
+I've had a Keurig for a few years now. My wife got it for me for Christmas in 2018 and I have used it nearly every single day. Lately, I haven't been using it as much because I've been drinking chai tea lattas. Specifically using chai tea from Chico Chai (The best I have ever had). A friend of mine mentioned that he got his girlfriend a Keurig that could make lattes and I went on the hunt. After doing some research, it looks like the one he mentioned was the best one for the price. My wife bought it for me the very next day.
 
 <img src="../assets/maker.jpg" alt="maker" width="600"/>
 
 # Goals
 
 * Turn off the AUTO OFF
-* Make a regular coffee
+* Make a regular coffee (with k-cup)
 * Make a latte (with k-cup)
 
 # Making A Coffee
